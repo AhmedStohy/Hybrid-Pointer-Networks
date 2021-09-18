@@ -28,6 +28,7 @@ TSPLarge  : inside large folder<br>
 2. Network Testing <br>
 TSPSmall : Run notebook hpn-smallsize-test.<br>
 TSPLarge : Run notebook hpnlarge-test.<br>
+3. The Checkpoint file beside each training notebook<br>
 <br>
 
 <br>
