@@ -1,6 +1,6 @@
 # Hybrid Pointer Networks
 Sep, 2021
-<img src="Resourses/TSP.gif" align="right" width="300" />
+<img src="Resourses/TSP.gif" align="right" width="400" />
 <br>
 <br>
 
