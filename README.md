@@ -1,7 +1,7 @@
 # Hybrid Pointer Networks
 Sep, 2021
 
-<img src="Resourses/TSP.gif" align="right" width = "300"/>
+<img src="Resourses/TSP.gif" align="right" width = "350"/>
 <br>
 <br>
 
@@ -13,19 +13,12 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
-
-
-
 
 ### Benchmark
 Sample instance form TSBLIB benchmark data fnl4461<br>
 <br>
 
-<img src="Resourses/fnl4461.jpg" align="right" width = "500"/> 
+<img src="Resourses/fnl4461.jpg" align="right" width = "350"/> 
 <br>
 <br>
 <br>
