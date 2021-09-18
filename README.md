@@ -16,16 +16,7 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 
 ### Benchmark
 Sample instance form TSBLIB benchmark data fnl4461<br>
-<br>
-
 <img src="Resourses/fnl4461.jpg" align="right" width = "350"/> 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 ### Guidelines
 1. Network Training (Tesla P100-PCIE-16GB) <br>
