@@ -1,10 +1,6 @@
 # Hybrid Pointer Networks
 Sep, 2021
-
 <img src="Resourses/TSP.gif" align="right" width = "350"/>
-<br>
-<br>
-
 ### Description
 PyTorch implementation of "The Transformer Network for the Traveling Salesman Problem"<br>
 Xavier Bresson and Thomas Laurent<br>
