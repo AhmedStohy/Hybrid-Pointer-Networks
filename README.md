@@ -25,7 +25,7 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 Sample instance form TSBLIB benchmark data fnl4461<br>
 <br>
 
-<img src="Resourses/fnl4461.jpg" width = "500"/> 
+<img src="Resourses/fnl4461.jpg" align="right" width = "500"/> 
 <br>
 <br>
 <br>
