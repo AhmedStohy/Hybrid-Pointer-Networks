@@ -2,8 +2,8 @@
 Sep, 2021
 <img src="Resourses/TSP.gif" align="right" width = "350"/>
 ### Description
-PyTorch implementation of "The Transformer Network for the Traveling Salesman Problem"<br>
-Xavier Bresson and Thomas Laurent<br>
+PyTorch implementation of "Hybrid Pointer Networks For Solving the travelling salesman problem"<br>
+Ahmed Stohy, Heba-Tullah Abdelhakam, Sayed Ali, Mohammed Elhenawy,  Abdallah A Hassan, Mahmoud Masoud ,Sebastien Glaser and Andry Rakotonirainy<br>
 ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.pdf) <br>
 <br>
 <br>
