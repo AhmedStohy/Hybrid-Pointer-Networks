@@ -16,8 +16,6 @@ Sample instance form TSBLIB benchmark data fnl4461<br>
 
 ### Guidelines
 1. Network Training (Tesla P100-PCIE-16GB) <br>
-TSPSmall  : Inside small folder<br>
-TSPLarge  : inside large folder<br>
 2. Network Testing <br>
 TSPSmall : Run notebook hpn-smallsize-test.<br>
 TSPLarge : Run notebook hpnlarge-test.<br>
