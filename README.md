@@ -10,6 +10,14 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 <br>
 <br>
 
+## Dependencies
+
+* Python >= 3.7.10
+* NumPy
+* [PyTorch](http://pytorch.org/) == 1.7.1
+* tqdm
+* Matplotlib (optional, only for plotting)
+
 ### Benchmark
 Sample instance form TSBLIB benchmark data fnl4461<br>
 <img src="Resourses/fnl4461.jpg" align="right" width = "350"/> 
