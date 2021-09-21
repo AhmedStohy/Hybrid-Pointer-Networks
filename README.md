@@ -21,9 +21,16 @@ TSPSmall : Run notebook hpn-smallsize-test.<br>
 TSPLarge : Run notebook hpnlarge-test.<br>
 3. The Checkpoint file beside each training notebook<br>
 <br>
+<br>
+<br>
+<br>
+## Acknowledgements
+Thanks to [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) for getting me started with the code for the Pointer Network.
 
-<br>
-<br>
-<br>
+This repository includes adaptions of the following repositories as baselines:
+* https://github.com/MichelDeudon/encode-attend-navigate
+* https://github.com/mc-ride/orienteering
+* https://github.com/jordanamecler/PCTSP
+* https://github.com/rafael2reis/salesman
 
 
