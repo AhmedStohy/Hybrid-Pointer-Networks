@@ -24,7 +24,9 @@ TSPLarge : Run notebook hpnlarge-test.<br>
 <br>
 <br>
 <br>
-## Acknowledgements
+
+## Acknowledgements<br>
+
 Thanks to [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) for getting me started with the code for the Pointer Network.
 
 This repository includes adaptions of the following repositories as baselines:
