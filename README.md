@@ -15,7 +15,6 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 * Python >= 3.7.10
 * NumPy
 * [PyTorch](http://pytorch.org/) == 1.7.1
-* tqdm
 * Matplotlib (optional, only for plotting)
 
 ### Benchmark
