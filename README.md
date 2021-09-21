@@ -11,7 +11,6 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 <br>
 
 ## Dependencies
-
 * Python >= 3.7.10
 * NumPy
 * [PyTorch](http://pytorch.org/) == 1.7.1
@@ -28,7 +27,10 @@ Sample instance form TSBLIB benchmark data fnl4461<br>
 TSPSmall : Run notebook hpn-smallsize-test.<br>
 TSPLarge : Run notebook hpnlarge-test.<br>
 3. The Checkpoint file beside each training notebook<br>
-
+<br>
+<br>
+<br>
+<br>
 
 ## Acknowledgements<br>
 Thanks to [qiang-ma/graph-pointer-network](https://github.com/qiang-ma/graph-pointer-network) for getting me started with the code for the Graph Pointer Network.
