@@ -27,12 +27,10 @@ TSPLarge : Run notebook hpnlarge-test.<br>
 
 ## Acknowledgements<br>
 
-Thanks to [pemami4911/neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch) for getting me started with the code for the Pointer Network.
+Thanks to [qiang-ma/graph-pointer-network](https://github.com/qiang-ma/graph-pointer-network) for getting me started with the code for the Graph Pointer Network.
 
-This repository includes adaptions of the following repositories as baselines:
-* https://github.com/MichelDeudon/encode-attend-navigate
-* https://github.com/mc-ride/orienteering
-* https://github.com/jordanamecler/PCTSP
-* https://github.com/rafael2reis/salesman
+This repository includes adaptions of [xbresson/TSP_Transformer](https://github.com/xbresson/TSP_Transformer), I also would like to thank you for making your code available.
+
+
 
 
