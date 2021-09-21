@@ -20,7 +20,7 @@ ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.
 Sample instance form TSBLIB benchmark data fnl4461<br>
 <img src="Resourses/fnl4461.jpg" align="right" width = "350"/> 
 
-## Guidelines
+### Guidelines
 1. Network Training (Tesla P100-PCIE-16GB) <br>
    For training TSP50 : Run notebook hpn-smallsize-sumagg inside small folder
 2. Network Testing <br>
