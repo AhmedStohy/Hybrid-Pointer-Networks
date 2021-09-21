@@ -26,11 +26,8 @@ TSPLarge : Run notebook hpnlarge-test.<br>
 <br>
 
 ## Acknowledgements<br>
-
 Thanks to [qiang-ma/graph-pointer-network](https://github.com/qiang-ma/graph-pointer-network) for getting me started with the code for the Graph Pointer Network.
 
-This repository includes adaptions of [xbresson/TSP_Transformer](https://github.com/xbresson/TSP_Transformer), I also would like to thank you for making your code available.
-
-
+This repository contains [xbresson/TSP_Transformer](https://github.com/xbresson/TSP_Transformer) adaptations, and I'd like to thank you for making your code available.
 
 
