@@ -4,7 +4,7 @@ Sep, 2021
 ### Description
 PyTorch implementation of "Hybrid Pointer Networks for Combinatorial Optimization Problems"<br>
 Ahmed Stohy, Heba-Tullah Abdelhakam, Sayed Ali, Mohammed Elhenawy,  Abdallah A Hassan, Mahmoud Masoud ,Sebastien Glaser and Andry Rakotonirainy<br>
-ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.pdf) <br>
+ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/abs/2110.03104v1.pdf) <br>
 <br>
 <br>
 <br>
