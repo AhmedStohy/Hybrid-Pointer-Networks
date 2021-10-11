@@ -2,7 +2,7 @@
 Sep, 2021
 <img src="Resourses/TSP.gif" align="right" width = "350"/>
 ### Description
-PyTorch implementation of "Hybrid Pointer Networks for Combinatorial Optimization Problems"<br>
+PyTorch implementation of "Hybrid Pointer Networks for Traveling Salesman Problems Optimization"<br>
 Ahmed Stohy, Heba-Tullah Abdelhakam, Sayed Ali, Mohammed Elhenawy,  Abdallah A Hassan, Mahmoud Masoud ,Sebastien Glaser and Andry Rakotonirainy<br>
 ArXiv : [https://arxiv.org/ftp/arxiv/papers/2110/2110.03104.pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03104.pdf) <br>
 <br>
