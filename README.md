@@ -1,6 +1,5 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/hybrid-pointer-networks-for-traveling/traveling-salesman-problem-on-tsplib)](https://paperswithcode.com/sota/traveling-salesman-problem-on-tsplib?p=hybrid-pointer-networks-for-traveling)
 
-
 # Hybrid Pointer Networks
 Sep, 2021
 <img src="Resourses/TSP.gif" align="right" width = "350"/>
