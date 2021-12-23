@@ -7,7 +7,7 @@ Sep, 2021
 ### Description
 PyTorch implementation of "Hybrid Pointer Networks for Traveling Salesman Problems Optimization"<br>
 Ahmed Stohy, Heba-Tullah Abdelhakam, Sayed Ali, Mohammed Elhenawy,  Abdallah A Hassan, Mahmoud Masoud ,Sebastien Glaser and Andry Rakotonirainy<br>
-ArXiv : [https://arxiv.org/ftp/arxiv/papers/2110/2110.03104.pdf](https://arxiv.org/ftp/arxiv/papers/2110/2110.03104.pdf) <br>
+ArXiv : [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260995](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0260995) <br>
 <br>
 <br>
 <br>
